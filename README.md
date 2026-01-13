@@ -4,6 +4,11 @@
 #### NIM    = 312410312  
 #### Matkul  = Pemograman Mobile
 
+## TUGAS
+
+<img width="784" height="402" alt="image" src="https://github.com/user-attachments/assets/a4df2970-3859-4fa6-870f-92110c2d10f0" />
+
+
 Link clickup 
 https://app.clickup.com/90181768488/v/li/901811634434  
 Link Youtube 
