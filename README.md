@@ -6,4 +6,12 @@ https://app.clickup.com/90181768488/v/li/901811634434
 Link Youtube 
 https://youtube.com/shorts/xkTxvR5Hb-U?si=fZZnokQSblTHWYtL 
 
+## Berikut tampilan click up dari gant saya 
+
 <img width="1486" height="808" alt="image" src="https://github.com/user-attachments/assets/fbc5a4ae-1614-475d-bfba-20d82cdf8647" />
+
+## Tampilan Dari beberapa splash screen
+
+<img width="792" height="738" alt="image" src="https://github.com/user-attachments/assets/eeae18e0-ef5d-424b-8a85-8bd5fe13ec5f" />
+
+
