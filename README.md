@@ -1,5 +1,8 @@
 # UAS_Mobile
-
+#### Nama   = DZAKI ARIF RAHMAN  
+#### Kelas  = TI.24.A4  
+#### NIM    = 312410312  
+#### Matkul  = Pemograman Mobile
 
 Link clickup 
 https://app.clickup.com/90181768488/v/li/901811634434  
